@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm a graduating student at a Czech IT school.
+
 I'm experienced in C++ and I am capable of writing in Rust, C# and Java.
+
 I'm interested in game engine development and code optimization.
 <!--
 **ondrej008/ondrej008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
